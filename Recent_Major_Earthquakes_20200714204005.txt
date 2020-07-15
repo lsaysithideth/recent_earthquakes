@@ -1,0 +1,61 @@
+USGS Magnitude 2.5+ Earthquakes, Past Day
+30 events recorded
+151 km N of Ruteng, Indonesia
+33 km WNW of Aitape, Papua New Guinea
+4km NW of The Geysers, CA
+94 km W of Elfin Cove, Alaska
+43 km ENE of Port-Olry, Vanuatu
+12km SW of Searles Valley, CA
+26 km NW of Stanley, Idaho
+14km SSE of Tres Pinos, CA
+Izu Islands, Japan region
+50 km NE of Shikotan, Russia
+southern Xinjiang, China
+28km SE of Bodie, CA
+42 km NNW of Stanley, Idaho
+north of Halmahera, Indonesia
+17km SSE of Lone Pine, CA
+Hawaii region, Hawaii
+115 km WNW of Pólis, Cyprus
+32 km SSW of Puerto El Triunfo, El Salvador
+18km S of Trona, CA
+8 km SW of Guánica, Puerto Rico
+30km SE of Bodie, CA
+9 km WNW of Stanley, Idaho
+14 km SW of Stanley, Idaho
+33 km ESE of Malaga, New Mexico
+3 km S of Guánica, Puerto Rico
+32 km ESE of Vallecitos de Zaragoza, Mexico
+Balleny Islands region
+Pagan region, Northern Mariana Islands
+Chile-Bolivia border region
+125 km S of Akureyri, Iceland
+--------------
+
+
+
+Events that were 4.0 or greater in magnitude:
+5.7 151 km N of Ruteng, Indonesia
+4.9 33 km WNW of Aitape, Papua New Guinea
+5.0 43 km ENE of Port-Olry, Vanuatu
+4.1 Izu Islands, Japan region
+5.2 50 km NE of Shikotan, Russia
+4.5 southern Xinjiang, China
+4.6 north of Halmahera, Indonesia
+4.3 115 km WNW of Pólis, Cyprus
+4.6 32 km SSW of Puerto El Triunfo, El Salvador
+4.3 32 km ESE of Vallecitos de Zaragoza, Mexico
+5.2 Balleny Islands region
+4.6 Pagan region, Northern Mariana Islands
+4.0 Chile-Bolivia border region
+4.4 125 km S of Akureyri, Iceland
+--------------
+
+
+
+Events that were felt:
+2.6 4km NW of The Geysers, CA  reported 1 times
+2.8 14km SSE of Tres Pinos, CA  reported 3 times
+3.6 17km SSE of Lone Pine, CA  reported 11 times
+3.6 30km SE of Bodie, CA  reported 12 times
+4.3 32 km ESE of Vallecitos de Zaragoza, Mexico  reported 3 times
